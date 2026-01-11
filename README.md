@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hola Amigos!! 👋</h1>
 
 ###
 
@@ -80,8 +80,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Pranav141&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+![pranav141's Contribution stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=pranav141&type=contributions&theme=dark)
+<br>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/PranavKokate121?ext=contest)](https://leetcode.com/PranavKokate121)
 
 ###
